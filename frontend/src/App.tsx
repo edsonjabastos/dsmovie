@@ -1,5 +1,5 @@
 function App() {
-  return <h1>PRIMEIRA página</h1>;
+  return <h1>Páginal principal</h1>;
 }
 
 export default App;
